@@ -7,7 +7,7 @@ to Single Page Application Sample .net core 6
 
 Database MySQL Script :
 
-This code is example Create , Read , Update Delete using Asp.net .net Core  5 with MySQL. The purpose is to educate simple crud application is pretty
+This code is example Create , Read , Update Delete using Asp.net .net Core  6 with MySQL. The purpose is to educate simple crud application is pretty
 easy with .net Core and MySQL can deploy in linux /mac .  C# is pretty easy language so developer from PHP can migrate in . 
 
 
